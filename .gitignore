@@ -1,0 +1,8 @@
+# ignore all .csv files
+*.csv
+
+# ignore all .json files
+*.json
+
+# ignore vscode setting folder: .vscode
+vscode/
