@@ -24,6 +24,6 @@ with open("VIX_by_day.csv", 'w', encoding="UTF8") as f:
     data.to_csv(f)
 
 # fetch data from kbank by day
-data = kbank.fetch_data()
-with open("kbank_by_day.csv", 'w', encoding="UTF8") as f:
-    to_csv(f)
+# data = kbank.fetch_data()
+# with open("kbank_by_day.csv", 'w', encoding="UTF8") as f:
+#     to_csv(f)

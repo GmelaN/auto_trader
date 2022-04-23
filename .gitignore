@@ -9,3 +9,6 @@ vscode/
 
 # ignore all .out file
 *.out
+
+# ignore pycache
+__pycache__/
